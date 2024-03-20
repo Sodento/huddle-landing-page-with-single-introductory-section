@@ -9,8 +9,8 @@
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
 
-    --font-poppins: 'Poppins',sans-serif;
-    --font-open-sans: 'Open Sans',sans-serif;
+    --font-poppins: 'Poppins', sans-serif;
+    --font-open-sans: 'Open Sans', sans-serif;
 }
 
 
@@ -41,10 +41,10 @@ body {
     margin-top: 6rem;
 }
 
-header > svg {
+header>svg {
     height: 6rem;
 }
-    
+
 .flex {
     display: flex;
     justify-content: center;
@@ -95,7 +95,7 @@ footer {
     padding-right: 2rem;
 }
 
-footer > svg {
+footer>svg {
     height: 3rem;
     width: 3rem;
     border: 1px solid var(--white);
